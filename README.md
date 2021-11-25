@@ -2,13 +2,13 @@
 
 # Description
 
-An application that shows the weather of a certain city and also displays a picture of the searched location using Google Maps api.
+An application that shows the weather of a certain city and also displays a picture of the searched location using Google Maps API.
 
-# Technologies
+## Technologies
 
-React, React Hooks, Bootstrap, HTML, CSS, MetaWeather API, Google Maps API.
+React, React Hooks, Bootstrap, JavaScript, HTML, CSS, MetaWeather API, Google Maps API.
 
-# Getting Started with Create React App
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
