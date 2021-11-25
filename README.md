@@ -1,6 +1,6 @@
 # Weather-App
 
-# Description
+## Description
 
 An application that shows the weather of a certain city and also displays a picture of the searched location using Google Maps API.
 
